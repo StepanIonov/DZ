@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DZ_.Program">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DZ_.Form1">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="DZ_.Form1.ParallelSearchResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DZ_.Form1.ParallelSearchThreadParam" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DZ_.Form1.MinMax" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DZ_.Form1.SubArrays" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIEQAgAAACAAABAAgACIAADCAAA4AAACAXAAEAAAEAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.EditDistance">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

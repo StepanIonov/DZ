@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DZ\DZ_\bin\Debug\DZ_.exe
+C:\Users\User\source\repos\DZ\DZ_\bin\Debug\DZ_.pdb
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.Form1.resources
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.Properties.Resources.resources
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.exe
+C:\Users\User\source\repos\DZ\DZ_\obj\Debug\DZ_.pdb

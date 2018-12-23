@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DZ\DZ\bin\Debug\DZ.exe
+C:\Users\User\source\repos\DZ\DZ\bin\Debug\DZ.pdb
+C:\Users\User\source\repos\DZ\DZ\bin\Debug\Lab4_.exe
+C:\Users\User\source\repos\DZ\DZ\bin\Debug\Lab4_.pdb
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.exe
+C:\Users\User\source\repos\DZ\DZ\obj\Debug\DZ.pdb
